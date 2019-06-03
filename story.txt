@@ -2,10 +2,19 @@ Late Work
 
 I was absent on Friday
 I went to school on Monday
-I went to my classes
+I went to my classes:
+I went to period 1
+I went to period 2
+I went to period 3
+I went to period 4
+I went to period 5
+I went to period 6
+I went to period 7
+I went to period 8
 I now knew what we were doing
 I no longer had a missing assignment
 I finished the assignment after making 3 changes
+
 I went to home
 I started homework
 THE END
